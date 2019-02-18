@@ -1,0 +1,121 @@
+.carousel {
+    
+box-shadow: -10px 10px 20px ;
+    margin-top: 100px;
+}
+
+h1{text-shadow: 1px 1px gray;
+    
+    
+}
+
+.display-4{
+    text-align: center;
+
+    
+}
+#raviolis{
+    width: 740px;
+ 
+  display: block;
+    margin: auto;
+ 
+    box-shadow: 2px 2px 10px black; 
+    margin-top: 15px;
+    border-radius: 10px 10px 10px;
+    
+    
+    
+    
+    
+    
+}
+#centrado{
+    
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 1px 1px gray;
+}
+
+.banderas{width: 40px;
+ 
+    
+    
+    
+}
+#centrado1{
+    
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 1px 1px gray;
+    color: white;
+}
+
+#jumbo{
+    
+    background-color: #024959;
+}  
+
+#adri{
+    width: 350px;
+    margin: auto;
+    display: block;
+    
+}
+
+#nina{
+ 
+  width: 170px;
+    margin: auto;
+    display: block;
+  
+    
+    
+    
+}
+#titulocolor{
+    background-color: white;
+    
+}
+
+.ir-arriba{
+   display: inline-block;
+    padding: 20px;
+    background-color: #024959;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    position: fixed;
+    bottom:20;
+    right: 20;
+    
+    
+    
+}
+
+.navbar{
+     position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+
+    
+    
+}
+body::-webkit-scrollbar {
+    
+   width: 7px;
+   
+    
+    
+    
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: #024959;
+    border-radius: 5px;
+    border-right: 2px solid #024959; 
+ 
+    
+    
+}
